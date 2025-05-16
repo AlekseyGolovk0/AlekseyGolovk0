@@ -9,9 +9,6 @@
   <a href="https://t.me/@Alleqsey">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
-  <a href="https://leetcode.com/ваш-профиль">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode">
-  </a>
 </p>
 
 <!-- Обо мне -->
