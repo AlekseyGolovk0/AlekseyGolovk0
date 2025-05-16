@@ -28,25 +28,30 @@
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <div align="center">
-<img src="https://img.shields.io/badge/Задачи%20завершено-123-green" alt="Задачи завершено">
-    <img src="https://img.shields.io/badge/Текущий%20рейтинг-95%-blue" alt="Текущий рейтинг">
+ <div align="center">
+  
+### Languages & Frameworks
+Интеграция основных языков и фреймворков в моей работе:
+<p>
+  <img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white" alt="C#">
+  <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white" alt=".NET">
+  <img src="https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white" alt="SQL">
+</p>
 
-    <img src="https://img.shields.io/badge/Задачи%20завершено-123-green" alt="Задачи завершено">
-    <img src="https://img.shields.io/badge/Текущий%20рейтинг-95%-blue" alt="Текущий рейтинг">
+### BIM & CAD
+Профессиональные инструменты для BIM-координации:
+<p>
+  <img src="https://img.shields.io/badge/Revit-0696D3?logo=autodeskrevit&logoColor=white" alt="Revit">
+  <img src="https://img.shields.io/badge/AutoCAD-0696D3?logo=autocad&logoColor=white" alt="AutoCAD">
+</p>
 
-    <h3>Languages & Frameworks</h3>
-    <img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white">
-    <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white">
-    <img src="https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white">
+### Tools
+Основные инструменты разработки в моем workflow:
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visual-studio&logoColor=white" alt="Visual Studio">
+</p>
 
-    <h3>BIM & CAD</h3>
-    <img src="https://img.shields.io/badge/Revit-0696D3?logo=autodeskrevit&logoColor=white">
-    <img src="https://img.shields.io/badge/AutoCAD-0696D3?logo=autocad&logoColor=white">
-
-    <h3>Tools</h3>
-    <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white">
-    <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visual-studio&logoColor=white">
-</div>
 </div>
 <!-- Статистика -->
 <h2 align="center">📈 GitHub Stats</h2>
