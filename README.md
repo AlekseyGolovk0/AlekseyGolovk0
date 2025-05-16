@@ -24,19 +24,6 @@
   <p>👨💻 BIM Coordinator | .NET Developer</p>
   <p>💡 Passionate about integrating C# with BIM technologies</p>
 </div>
-
-<!-- Статистика -->
-<h2 align="center">📈 GitHub Stats</h2>
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlekseyGolovk0&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlekseyGolovk0&layout=compact&langs_count=8&theme=radical" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlekseyGolovk0&theme=github_dark" width="100%"/>
-</div>
-
 <!-- Навыки -->
 <h2 align="center">🛠️ Tech Stack</h2>
 
@@ -50,7 +37,19 @@
   <img src="https://img.shields.io/badge/Revit-0696D3?logo=autodeskrevit&logoColor=white">
   <img src="https://img.shields.io/badge/AutoCAD-0696D3?logo=autocad&logoColor=white">
   
-  <h3>Tools</h3>
+    <h3>Tools</h3>
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visual-studio&logoColor=white">
 </div>
+<!-- Статистика -->
+<h2 align="center">📈 GitHub Stats</h2>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlekseyGolovk0&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlekseyGolovk0&layout=compact&langs_count=8&theme=radical" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlekseyGolovk0&theme=github_dark" width="100%"/>
+</div>
+
