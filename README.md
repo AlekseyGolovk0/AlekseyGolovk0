@@ -54,11 +54,3 @@
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visual-studio&logoColor=white">
 </div>
-
-<!-- Активность -->
-<h2 align="center">🔥 Activity</h2>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AlekseyGolovk0&theme=github-dark&hide_border=true" width="90%">
-  <img src="https://streak-stats.demolab.com?user=AlekseyGolovk0&theme=dark&hide_border=true" width="49%">
-  <img src="https://github-profile-trophy.vercel.app/?username=AlekseyGolovk0&theme=onedark&column=7&margin-w
