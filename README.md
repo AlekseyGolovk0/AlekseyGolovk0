@@ -4,13 +4,12 @@
   </a>
 </h1>
 
-<!-- Змейка -->
+<!-- Змейка (рабочая версия) -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AlekseyGolovk0/AlekseyGolovk0/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://github.com/AlekseyGolovk0/AlekseyGolovk0/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </div>
 
 <p align="center">
- 
   <a href="https://t.me/Alleqsey">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
@@ -29,6 +28,7 @@
   <p>👨💻 BIM Coordinator | .NET Developer</p>
   <p>💡 Passionate about integrating C# with BIM technologies</p>
 </div>
+
 <!-- Навыки -->
 <h2 align="center">🛠️ Tech Stack</h2>
 
@@ -46,15 +46,16 @@
   <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visual-studio&logoColor=white">
 </div>
+
 <!-- Статистика -->
 <h2 align="center">📈 GitHub Stats</h2>
 
 <div align="center">
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlekseyGolovk0&hide_progress=true&layout=compact&theme=radical&hide=html,css,scss,javascript&exclude_repo=AlekseyGolovk0)]
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlekseyGolovk0&layout=compact&langs_count=8&theme=radical&hide=html,css,scss" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlekseyGolovk0&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlekseyGolovk0&layout=compact&langs_count=6&theme=radical&hide=html,css,scss,jupyter%20notebook" />
 </div>
-<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
-<!-- Змейка -->
+
+<!-- Шутка -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/AlekseyGolovk0/AlekseyGolovk0/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
 </div>
