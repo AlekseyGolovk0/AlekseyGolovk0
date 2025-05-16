@@ -28,18 +28,21 @@
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <div align="center">
-  <h3>Languages & Frameworks</h3>
-  <img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white">
-  <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white">
-  <img src="https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white">
-  
-  <h3>BIM & CAD</h3>
-  <img src="https://img.shields.io/badge/Revit-0696D3?logo=autodeskrevit&logoColor=white">
-  <img src="https://img.shields.io/badge/AutoCAD-0696D3?logo=autocad&logoColor=white">
-  
-  <h3>Tools</h3>
-  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visual-studio&logoColor=white">
+<img src="https://img.shields.io/badge/Задачи%20завершено-123-green" alt="Задачи завершено">
+    <img src="https://img.shields.io/badge/Текущий%20рейтинг-95%-blue" alt="Текущий рейтинг">
+
+    <h3>Languages & Frameworks</h3>
+    <img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white">
+    <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white">
+    <img src="https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white">
+
+    <h3>BIM & CAD</h3>
+    <img src="https://img.shields.io/badge/Revit-0696D3?logo=autodeskrevit&logoColor=white">
+    <img src="https://img.shields.io/badge/AutoCAD-0696D3?logo=autocad&logoColor=white">
+
+    <h3>Tools</h3>
+    <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white">
+    <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?logo=visual-studio&logoColor=white">
 </div>
 <!-- Статистика -->
 <h2 align="center">📈 GitHub Stats</h2>
