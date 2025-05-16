@@ -46,10 +46,10 @@
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlekseyGolovk0&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlekseyGolovk0&layout=compact&langs_count=8&theme=radical" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlekseyGolovk0&theme=github_dark" width="100%"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlekseyGolovk0&layout=compact&langs_count=8&theme=radical&hide=html,css,scss" />
 </div>
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+<!-- Змейка -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AlekseyGolovk0/AlekseyGolovk0/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
