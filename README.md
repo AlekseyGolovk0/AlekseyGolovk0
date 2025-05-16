@@ -1,8 +1,13 @@
 <h1 align="center">
-  <a href="https://github.com/AlekseyGolovk0">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=2000&pause=1000&color=27A4F7&center=true&width=600&lines=Hi!+👋+I'm+Aleksey+Golovko;BIM+Coordinator+👨💻;C%23+Developer+🚀;MGSU+Student+🎓" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=2000&pause=1000&color=27A4F7&center=true&width=600&lines=Hi!+👋+I'm+Aleksey+Golovk0;BIM+Coordinator+👨💻;C%23+Developer+🚀;MGSU+Student+🎓" alt="Typing SVG" />
   </a>
 </h1>
+
+<!-- Змейка -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/AlekseyGolovk0/AlekseyGolovk0/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
 
 <p align="center">
  
@@ -45,7 +50,7 @@
 <h2 align="center">📈 GitHub Stats</h2>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlekseyGolovk0&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlekseyGolovk0&hide_progress=true&layout=compact&theme=radical&hide=html,css,scss,javascript&exclude_repo=AlekseyGolovk0)]
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlekseyGolovk0&layout=compact&langs_count=8&theme=radical&hide=html,css,scss" />
 </div>
 <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
