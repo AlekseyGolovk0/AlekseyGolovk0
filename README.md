@@ -46,11 +46,14 @@
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlekseyGolovk0&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <p align="center">
-  <img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white" title="C#">
-  <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white" title=".NET">
-  <img src="https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white" title="SQL">
-</p>
+<div align="center">
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlekseyGolovk0&hide=html,css&layout=compact&theme=radical)
+  
+  ### Основные технологии
+  <img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white">
+  <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white">
+</div>
 </div>
 
 <div align="center">
