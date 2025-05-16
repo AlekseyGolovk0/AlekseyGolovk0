@@ -46,7 +46,11 @@
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlekseyGolovk0&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlekseyGolovk0&layout=compact&langs_count=8&theme=radical" />
+  <p align="center">
+  <img src="https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white" title="C#">
+  <img src="https://img.shields.io/badge/.NET-512BD4?logo=dotnet&logoColor=white" title=".NET">
+  <img src="https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white" title="SQL">
+</p>
 </div>
 
 <div align="center">
