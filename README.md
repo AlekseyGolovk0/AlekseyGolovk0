@@ -52,4 +52,4 @@
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlekseyGolovk0&theme=github_dark" width="100%"/>
 </div>
-![Jokes Card](https://readme-jokes.vercel.app/api)
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
