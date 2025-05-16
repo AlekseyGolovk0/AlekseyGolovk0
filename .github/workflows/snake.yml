@@ -1,28 +1,14 @@
-name: Generate Snake
+name: Update Stats
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: '0 0 * * *' # Runs daily
   workflow_dispatch:
-  push:
-    branches:
-      - main
 
 jobs:
-  generate:
+  update-stats:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout
-        uses: actions/checkout@v3
-        
-      - name: Generate Snake
-        uses: Platane/snk@v3
-        with:
-          github_user_name: AlekseyGolovk0
-          svg_out_path: output/github-contribution-grid-snake.svg
-          
-      - name: Commit and Push
-        uses: stefanzweifel/git-auto-commit-action@v4
-        with:
-          commit_message: "Update snake animation"
-          branch: main
+      - name: Refresh stats
+        run: |
+          curl -s "https://github-readme-stats.vercel.app/api/top-langs/?username=AlekseyGolovk0&layout=compact&theme=radical" > /dev/null
