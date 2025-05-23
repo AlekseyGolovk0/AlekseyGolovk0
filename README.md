@@ -31,17 +31,12 @@
 <!-- Статистика -->
 <h2 align="center">📈 GitHub Stats</h2>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlekseyGolovk0&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
 
-  <!--
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlekseyGolovk0&layout=compact&langs_count=8&theme=radical" />
--->
-
-</div>
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlekseyGolovk0&theme=github_dark" width="100%"/>
 </div>
+
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
